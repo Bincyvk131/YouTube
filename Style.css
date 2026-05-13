@@ -69,6 +69,10 @@ body {
 .header_search i:hover {
   background-color: #e5e5e5;
 }
+.header_icons{
+  display: flex;
+  align-items: center;
+}
 .search_mic {
   align-items: center;
   margin-left: 10px;
